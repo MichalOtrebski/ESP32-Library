@@ -4,5 +4,7 @@
     {
         "type": "git",
         "url": "https://github.com/MichalOtrebski/ESP32-Library"
-    }
+    },
+    "frameworks": "arduino",
+    "platforms": "esp32"
 }
